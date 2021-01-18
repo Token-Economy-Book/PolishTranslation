@@ -1,4 +1,4 @@
-# Ekonomia Tokenów: Jak Web 3 zmienia Internet
+# Ekonomia Tokenów: Jak Web3 zmienia Internet
 Translated from: Token Economy: How the Web3 reinvents the Internet. Second edition, first amended printing, Nov 2020.
 The first edition was published by BlockchainHub Berlin https://blockchainhub.net in June 2019 under the title “Token Economy: How Blockchain & Smart contracts revolutionize the Economy” and had two amended editions.
 Author: Shermin Voshmgir <br>
