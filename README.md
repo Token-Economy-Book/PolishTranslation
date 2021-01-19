@@ -6,8 +6,8 @@ Publisher: Token Kitchen, 10119 Berlin <br>
 http://token.kitchen<br>
 Design: Justyna Zubrycka <br>
 Production: Caroline Helbing<br>
-Polish Translation: Elwira Stadnik 
-Read online: https://github.com/Token-Economy-Book/PolishTranslation (work in progress)
+Polish Translation: Elwira Stadnik <br>
+Read online: https://github.com/Token-Economy-Book/PolishTranslation (work in progress)<br>
 Coordinate with Elwira Stadnik elwirastadnik@me.com if you want to support the translation team.
 
 # Licence
