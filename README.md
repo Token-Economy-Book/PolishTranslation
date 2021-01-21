@@ -7,7 +7,7 @@ http://token.kitchen<br>
 Design: Justyna Zubrycka <br>
 Production: Caroline Helbing<br>
 Polish Translation: Elwira Stadnik <br>
-Read online: https://github.com/Token-Economy-Book/PolishTranslation (work in progress)<br>
+Read online: https://github.com/Token-Economy-Book/PolishTranslation/wiki (work in progress)<br>
 Coordinate with Elwira Stadnik elwirastadnik@me.com if you want to support the translation team.
 
 # Licence
@@ -21,13 +21,13 @@ For commercial permissions contact: hello@token.kitchen <br>
 English: https://github.com/sherminvo/TokenEconomyBook/wiki.<br>
 Print book (paperback & hardcopy) and eBook editions are also available on Amazon (https://amzn.to/2W7lQ8h) & other online bookstores.
 
-Polish: https://github.com/Token-Economy-Book/PolishTranslation (work in progress)
+Polish: https://github.com/Token-Economy-Book/PolishTranslation/wiki (work in progress)
 Coordinate with Elwira Stadnik elwirastadnik@me.com
 
 German Version: https://github.com/Token-Economy-Book/GermanTranslation/wiki (work in progress)
 Print book (paperback & hardcopy) and eBook editions are also available on Amazon (https://amzn.to/2W7lQ8h) & other online bookstores.
 
-French: https://github.com/Token-Economy-Book/FrenchTranslation (work in progress)
+French: https://github.com/Token-Economy-Book/FrenchTranslation/wiki (work in progress)
 Coordinate with Philippe Honigman philh@erisma.com
 
 Japanese: is currently being translated by a team in Japan and published in a separate Github Repository: https://github.com/Naokiakazawa/TokenEconomyBook_JP/wiki (work in progress)
@@ -36,13 +36,13 @@ If you want to contribute to the collective translation please contact the repos
 Portugese: https://github.com/Token-Economy-Book/PortugeseTranslation/wiki (work in progress)
 If you want to contribute to the collective translation please contact: jsousa@borsini.com, courtnay@uol.com.br, anthagas@hotmail.com
 
-Chinese: https://github.com/Token-Economy-Book/ChineseTranslation (work in progress)
+Chinese: https://github.com/Token-Economy-Book/ChineseTranslation/wiki (work in progress)
 currently being coordinated and translated by Joanne Long.
 If you want to contribute to the collective translation please contact: xueting.long20@imperial.ac.uk
 
 Farsi: is currently being translated by in a telegram channel by Malihe Mahdavisefat. Due to the sanctions against Iran, Github limits Iranians from contributing, which is why Malieh started the translation in her Telegram channel: t.me/rayablockchain. Contact her directly for collaboration.
 
-Catalan: https://github.com/Token-Economy-Book/CatalanTranslation (work in progress)
+Catalan: https://github.com/Token-Economy-Book/CatalanTranslation/wiki (work in progress)
 Coordinate with Marc Rocas marc@blockchaincatalunya.org
 
 Spanish: https://github.com/Token-Economy-Book/SpanishTranslation/wiki (work in progress)
