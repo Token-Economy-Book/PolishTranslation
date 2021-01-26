@@ -8,7 +8,7 @@ Design: Justyna Zubrycka <br>
 Production: Caroline Helbing<br>
 Polish Translation: Elwira Stadnik <br>
 
-# Read online: 
+# Read online 
 https://github.com/Token-Economy-Book/PolishTranslation/wiki (work in progress)<br>
 Coordinate with Elwira Stadnik elwirastadnik@me.com if you want to support the translation team.
 Other languages:https://github.com/Token-Economy-Book/
